@@ -1,0 +1,209 @@
+body{
+    background-color: white;
+}
+
+img{
+    height:690px;
+    width: 324px;
+    position: relative;
+    left: 600px;
+}
+
+.square1{
+    height: 23px;
+    width: 57px;
+    background-color: black;
+    position: relative;
+    bottom: 680px;
+    left: 850px;
+    border-radius: 39px;
+}
+
+.square2{
+   height: 49px;
+   width: 149px; 
+   background-color: #EB4D26;
+   position: relative;
+   bottom: 95px;
+   left: 630px;
+   border-radius: 34px;
+}
+
+.circle1{
+    height: 34px;
+    width: 34px;
+    background-color:#EB4D26;
+    border-radius: 50%;
+    position: relative;
+    bottom: 690px;
+    left: 859px;
+  }
+
+  h1{
+    height: 159px;
+    width: 373px;
+    font-family: Roboto;
+    font-size: 39px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    bottom: 460px;
+    left: 640px;
+  }
+
+  h3{
+    height: 159px;
+    width: 373px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: lighter;
+    color: white;
+    position: relative;
+    bottom:540px;
+    left: 640px;
+
+  }
+
+ .squaremiddle{
+    height: 2px;
+    width: 27px;
+    background-color: #d0d0d0;
+    position: relative;
+    bottom: 1099px;
+    left: 750px;
+ }
+
+ .squaremiddle2{
+    height: 2px;
+    width: 27px;
+    background-color: #d0d0d0;
+    position: relative;
+    bottom: 1095px;
+    left: 750px;
+ }
+
+.squarebattery{
+    height: 11px;
+    width: 7px;
+    background-color: white;
+    position: relative;
+    bottom: 1165px;
+    left: 830px;
+}
+
+.squarebattery2{
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 1178px;
+    left: 831px;
+}
+
+h5{
+    height: 37px;
+    width: 88px;
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: lighter;
+    color: white;
+    position: relative;
+    bottom: 1195px;
+    left: 610px;
+}
+
+.cq{
+    height: 35px;
+    width: 75px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Paytone One;
+    color: #EB4D26;
+}
+
+p{
+    height: 37px;
+    width: 88px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #1F1F20;
+    position: relative;
+    bottom: 1245px;
+    left: 871px;
+}
+
+.smallname{
+    height: 49px;
+    width: 157px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    color: #EB4D26;
+    position: relative;
+    bottom:1050px;
+    left: 640px;
+}
+
+.save{
+    height: 26px;
+    width: 233px;
+    color: #1F1F1F;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    bottom:810px;
+    left: 660px;
+}
+
+.circledown{
+    height: 30px;
+    width: 30px;
+    background-color: #5B2B20;
+    border-radius: 50%;
+    position: relative;
+    bottom: 850px;
+    left: 870px;
+}
+
+.circledown2{
+    height: 20px;
+    width: 20px;
+    background-color: #1C1C1A;
+    border-radius: 50%;
+    position: relative;
+    bottom: 875px;
+    left: 875px;
+}
+
+.circleup{
+    height: 30px;
+    width: 30px;
+    background-color: #5B2B20;
+    border-radius: 50%;
+    position: relative;
+    bottom: 900px;
+    left: 820px;
+}
+
+.circleup2{
+    height: 30px;
+    width: 30px;
+    background-color: #EB4D26;
+    border-radius: 50%;
+    position: relative;
+    bottom: 930px;
+    left: 820px;
+}
+
+.circleup5{
+    height: 20px;
+    width: 20px;
+    background-color: #1C1C1A;
+    border-radius: 50%;
+    position: relative;
+    bottom: 955px;
+    left: 825px;
+}
+
